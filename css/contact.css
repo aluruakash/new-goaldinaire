@@ -1,5 +1,1 @@
-@media(max-width: 1199px){
-	.contact-right-w3-agile input[type="text"]:nth-child(2){
-		margin-bottom: 25px;
-	}
-}
+@media(max-width:1199px){.contact-right-w3-agile input[type=text]:nth-child(2){margin-bottom:25px}}

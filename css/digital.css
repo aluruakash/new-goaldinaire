@@ -1,14 +1,1 @@
-@media(min-width: 1200px){
-	.agileinfo_choose_left .img-responsive{
-		margin-top: 0px;
-	}
-}
-img.digi-market{
-	width: 25%;
-	display: block;
-	text-align: center;
-	position: absolute;left: 0;
-	right: 0;
-	margin-left: auto;
-	margin-right: auto;
-}
+@media(min-width:1200px){.agileinfo_choose_left .img-responsive{margin-top:0}}img.digi-market{width:25%;display:block;text-align:center;position:absolute;left:0;right:0;margin-left:auto;margin-right:auto}
